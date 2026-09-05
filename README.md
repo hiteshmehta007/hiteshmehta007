@@ -142,10 +142,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiteshmehta007&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshmehta007&theme=tokyonight&hide_border=true&layout=compact" height="180" />
-</p>
-
 ---
 
 ## 🏆 Achievements
