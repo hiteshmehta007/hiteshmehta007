@@ -140,7 +140,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-ruby-one.vercel.app/api?username=hiteshmehta007&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hiteshmehta007&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" height="180" />
 </p>
 
 <p align="center">
@@ -148,7 +148,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=hiteshmehta007&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=1800" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshmehta007&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=1800" height="180" />
 </p>
 
 ---
