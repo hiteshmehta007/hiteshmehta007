@@ -140,7 +140,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hiteshmehta007/github-stats/generated/overview.svg" height="180" />
+  <img src="https://raw.githubusercontent.com/hiteshmehta007/github-stats/generated/overview.svg#gh-dark-mode-only" height="180" />
+  <img src="https://raw.githubusercontent.com/hiteshmehta007/github-stats/generated/overview.svg#gh-light-mode-only" height="180" />
 </p>
 
 <p align="center">
@@ -148,7 +149,8 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hiteshmehta007/github-stats/generated/languages.svg" height="180" />
+  <img src="https://raw.githubusercontent.com/hiteshmehta007/github-stats/generated/languages.svg#gh-dark-mode-only" height="180" />
+  <img src="https://raw.githubusercontent.com/hiteshmehta007/github-stats/generated/languages.svg#gh-light-mode-only" height="180" />
 </p>
 
 ---
